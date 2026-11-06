@@ -4,7 +4,9 @@ vickyrox/vickyrox is a ✨ special ✨ repository because its `README.md` (this 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vikas+%F0%9F%91%8B;.NET+Developer+%2B+Automation+Engineer;PLC+%E2%80%A2+HMI+%E2%80%A2+C%23+%E2%80%A2+Mechatronics;Learning+Machine+Learning+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="assets/banner.svg" alt="Vikas - futuristic animated banner" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=.NET+Developer+%2B+Automation+Engineer;PLC+%E2%80%A2+HMI+%E2%80%A2+C%23+%E2%80%A2+Mechatronics;Learning+Machine+Learning+%F0%9F%A4%96" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=vickyrox&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="profile views" />
 
@@ -114,6 +116,6 @@ Mechatronics, industrial automation, IoT, ya ML + automation ka koi idea ho — 
 
 *⚡ "Code the logic, wire the hardware, automate the world."* ⚡
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
 </div>
+
+<img src="assets/footer.svg" alt="footer" width="100%" />
