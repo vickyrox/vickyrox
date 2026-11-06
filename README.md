@@ -43,7 +43,7 @@ I build things that **actually run on the shop floor** — PLC logic, HMI screen
 
 ## 🚀 Selected Work
 
-> 🔗 *Replace `#` with your repo links. Jo project public nahi hai, uski row delete kar do.*
+> 🔗 My World
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
