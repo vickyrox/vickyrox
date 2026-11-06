@@ -8,6 +8,8 @@ vickyrox/vickyrox is a ✨ special ✨ repository because its `README.md` (this 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=.NET+Developer+%2B+Automation+Engineer;PLC+%E2%80%A2+HMI+%E2%80%A2+C%23+%E2%80%A2+Mechatronics;Learning+Machine+Learning+%F0%9F%A4%96" alt="Typing SVG" />
 
+<a href="mailto:vikasraikwar.786@gmail.com"><img src="https://img.shields.io/badge/Email-0b1030?style=for-the-badge&logo=gmail&logoColor=00e5ff" alt="Email" /></a>
+<a href="https://github.com/vickyrox"><img src="https://img.shields.io/badge/GitHub-0b1030?style=for-the-badge&logo=github&logoColor=00e5ff" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=vickyrox&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="profile views" />
 
 </div>
@@ -35,87 +37,59 @@ public class Vikas
 - 💞️ I'm looking to collaborate on my new innovative skills of **mechatronics**
 - 📫 Reach me at **vikasraikwar.786@gmail.com**
 
+I build things that **actually run on the shop floor** — PLC logic, HMI screens and the .NET software that talks to them.
+
+---
+
+## 🚀 Selected Work
+
+> 🔗 *Replace `#` with your repo links. Jo project public nahi hai, uski row delete kar do.*
+
+| Project | What it does | Stack | Links |
+| --- | --- | --- | --- |
+| 📡 **MLFF RFID Gateway** | TCP gateway that reads vehicle tag data from gantry readers for toll / MLFF systems | C# · .NET · TCP | [repo](#) |
+| 🌐 **NetPulse** | Network monitoring system with a WinForms dashboard and database logging | .NET · WinForms | [repo](#) |
+| ⚙️ **Crown Wheel Bolt-Tightening Machine** | PLC automation for a differential crown wheel tightening machine | Mitsubishi FX5U · GX Works3 | [repo](#) |
+| 🔩 **G1G2 Press Controller** | Servo valve analog I/O and ram up/down control for a press machine | FX5U · Ladder Logic | [repo](#) |
+| 🐄 **Pellet Mill Diagnostic Tool** | Offline fault-finding tool for a cattle-feed pellet plant (steam / urea / molasses) | HTML · JavaScript | [repo](#) |
+| 🤖 **Robot Eyes** | Non-blocking blink engine + expressions on an SH1106 OLED | Raspberry Pi Pico · MicroPython | [repo](#) |
+| 🏗️ **Site Management App** | Labour, stock, production and demand tracking in a single HTML file | HTML · JavaScript | [repo](#) |
+
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Software
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🏭 Industrial Automation
-![Mitsubishi](https://img.shields.io/badge/Mitsubishi_FX5U-E60012?style=for-the-badge)
-![Inovance](https://img.shields.io/badge/Inovance_H1U-0066B3?style=for-the-badge)
-![GX Works3](https://img.shields.io/badge/GX_Works3-333333?style=for-the-badge)
-![GT Designer3](https://img.shields.io/badge/GT_Designer3_HMI-555555?style=for-the-badge)
-![Ladder Logic](https://img.shields.io/badge/Ladder_Logic-FF8C00?style=for-the-badge)
-
-### 🔌 Electronics & Embedded
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_Pico-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-### 🤖 Learning Now
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
----
-
-## 🚀 What I Build
-
-| Area | What I do |
-|------|-----------|
-| 🏭 **Factory Automation** | PLC ladder logic + HMI for machines — Mitsubishi FX5U, Inovance H1U |
-| 🛣️ **Infrastructure Software** | RFID-based toll / MLFF gateway systems in C#/.NET |
-| 🖥️ **Desktop & Service Apps** | Windows desktop/service applications, network monitoring tools |
-| 🔧 **Mechatronics** | Where electronics, mechanics & software meet |
-| 🤖 **Machine Learning** | Learning ML — hands-on, one project at a time |
-
----
-
-## 🔭 Highlighted Work
-
-> 🔗 *Replace the `#` links below with your actual repo URLs.*
-
-- 📡 **[MLFF RFID Gateway](#)** — C#/.NET TCP gateway reading vehicle tag data from gantry readers
-- 🌐 **[NetPulse](#)** — .NET WinForms network monitoring system
-- ⚙️ **[PLC Machine Projects](#)** — FX5U automation for bolt-tightening and press machines
-- 🤖 **[Robot Eyes OLED](#)** — Expressive robot face animation on SH1106 OLED (Pico + MicroPython)
+<p align="center">
+  <img src="assets/tech-stack.svg" width="100%" alt="Tech stack: C#, .NET, Python, PLC, HMI, Raspberry Pi Pico, MicroPython, Arduino, machine learning" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vickyrox&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyrox&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vickyrox&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyrox&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vickyrox&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=vickyrox&theme=tokyonight&hide_border=true" />
+### 🐍 Contribution Snake
 
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickyrox/vickyrox/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickyrox/vickyrox/output/github-snake.svg" />
+    <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/vickyrox/vickyrox/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
 
 ---
 
 ## 🤝 Let's Collaborate
 
 Mechatronics, industrial automation, IoT, ya ML + automation ka koi idea ho — **let's build it together!** 🚀
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikasraikwar.786@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vickyrox)
-
-<br/>
-
-*⚡ "Code the logic, wire the hardware, automate the world."* ⚡
-
-</div>
 
 <img src="assets/footer.svg" alt="footer" width="100%" />
